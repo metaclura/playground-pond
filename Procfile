@@ -1,0 +1,1 @@
+web: java -Dspring.profiles.active=dev -Dserver.port=$PORT -jar target/playground-pond-0.0.1-SNAPSHOT.jar

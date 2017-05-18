@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://metaclura%40gmail.com:Sesamo01@ds139761.mlab.com:39761/playground-pond
