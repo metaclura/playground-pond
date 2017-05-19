@@ -1,4 +1,4 @@
-package com.metaclura.playgroundpond;
+package com.metaclura.playgroundpond.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

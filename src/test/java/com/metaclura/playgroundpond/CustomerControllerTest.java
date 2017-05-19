@@ -23,6 +23,7 @@ import com.lordofthejars.nosqlunit.core.LoadStrategyEnum;
 import com.lordofthejars.nosqlunit.mongodb.MongoDbConfiguration;
 import com.lordofthejars.nosqlunit.mongodb.MongoDbRule;
 import com.lordofthejars.nosqlunit.mongodb.SpringMongoDbRule;
+import com.metaclura.playgroundpond.model.Customer;
 import com.mongodb.MockMongoClient;
 import com.mongodb.MongoClient;
 
